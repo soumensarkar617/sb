@@ -45,6 +45,11 @@ public class CommentController {
         commentService.deleteCommentById(commentId);
     }
 
+    // Dummy method
+    public void sum(){
+        System.out.println("sum is:");
+    }
+
 
 
 
